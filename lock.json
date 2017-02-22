@@ -1,0 +1,37 @@
+{
+    "memo": "4cdf830cd26a846cb41680c5db928b565e058ad0b0ec8dc2ecc8cf03b03821ac",
+    "projects": [
+        {
+            "name": "github.com/astaxie/beego",
+            "version": "v1.7.2",
+            "revision": "90999717dda6193c6f970eec52e289b0a9e74998",
+            "packages": [
+                "orm"
+            ]
+        },
+        {
+            "name": "github.com/julienschmidt/httprouter",
+            "version": "v1.1",
+            "revision": "8c199fb6259ffc1af525cc3ad52ee60ba8359669",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/zhangweilun/logs",
+            "version": "v1.6.0",
+            "revision": "6ef807e31b1627b0438c400cd64eca132261318d",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/zhangweilun/tinyweb",
+            "version": "v1.2",
+            "revision": "28804a2a3a915f50706b2ee27ea841a6d5efc39e",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
